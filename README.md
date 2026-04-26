@@ -41,5 +41,4 @@ In medical AI, "Explainability" is vital. While these models show high accuracy,
 ├── data/               # Cancer_Dataset.csv
 ├── notebooks/          # ML project.ipynb (Main Analysis)
 ├── visuals/            # Saved plots (Heatmaps, PCA clusters)
-├── requirements.txt    # Library dependencies
 └── README.md           # Project documentation
